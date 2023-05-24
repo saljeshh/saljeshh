@@ -1,4 +1,4 @@
-- 🔭 I’m currently working on Self_Development
+- 🔭 I’m a Self Taught Data Analyst and Full Stack Developer
 - 🌱 I’m currently learning Data Analytics and Visualization.
 - 👯 I’m looking to collaborate on Data Science projects.
 - 🤔 I’m looking for help with SQL,Excel,Python.
