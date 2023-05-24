@@ -12,7 +12,6 @@
 [<img align="left" alt="Saljesh | LinkedIn" width="22px" src="https://pbs.twimg.com/profile_images/1508518003184349187/1KQYoqPY_400x400.png" />][linkedin]
 [<img align="left" alt="Saljesh | Twitter" width="22px" src="https://play-lh.googleusercontent.com/wIf3HtczQDjHzHuu7vezhqNs0zXAG85F7VmP7nhsTxO3OHegrVXlqIh_DWBYi86FTIGk" />][twitter]
 [<img align="left" alt="Saljesh | Instagram" width="22px" src="https://img.freepik.com/free-vector/instagram-icon_1057-2227.jpg?w=2000" />][instagram]
-[<img align="left" alt="Saljesh | Gmail" width="22px" src="https://1000logos.net/wp-content/uploads/2021/05/Gmail-logo.png" />][gmail]
 <br /><br />
 
 [![Gmail Badge](https://img.shields.io/badge/-saljesh2020@gmail.com-139AF2?style=flat-square&logo=Gmail&logoColor=white&link=mailto:saljesh2020@gmail.com)](mailto:saljesh2020@gmail.com)
