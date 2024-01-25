@@ -1,57 +1,36 @@
-- 🔭 I’m a Self Taught Data Analyst and Full Stack Web Developer
-- 🌱 I’m currently learning Data Analytics and Visualization.
-- 👯 I’m looking to collaborate on Data Science projects.
-- 🤔 I’m looking for help with SQL,Excel,Python.
-- ⚡ Fun fact: Once im hungry dont talk with me , bring me food.
+<h1 align="center">Hi 👋, I'm Saljesh Maharjan</h1>
+<h3 align="center">Dedicated and Disciplied Individual Heading for Data Analytics</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=saljeshh&label=Profile%20views&color=0e75b6&style=flat" alt="saljeshh" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saljeshh" alt="saljeshh" /></a> </p>
 
-### Connect with me:
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-[<img align="left" alt="Saljesh | Facebook" width="22px" src="https://static-00.iconduck.com/assets.00/facebook-icon-512x512-seb542ju.png" />][facebook]
-[<img align="left" alt="Saljesh | LinkedIn" width="22px" src="https://img.icons8.com/?size=512&id=xuvGCOXi8Wyg&format=png" />][linkedin]
-[<img align="left" alt="Saljesh | Twitter" width="22px" src="https://play-lh.googleusercontent.com/wIf3HtczQDjHzHuu7vezhqNs0zXAG85F7VmP7nhsTxO3OHegrVXlqIh_DWBYi86FTIGk" />][twitter]
-[<img align="left" alt="Saljesh | Instagram" width="22px" src="https://img.freepik.com/free-vector/instagram-icon_1057-2227.jpg?w=2000" />][instagram]
-<br /><br />
+- 🔭 I’m currently working on **PowerBI, DBT and Snowflake**
 
-[![Gmail Badge](https://img.shields.io/badge/-saljesh2020@gmail.com-139AF2?style=flat-square&logo=Gmail&logoColor=white&link=mailto:saljesh2020@gmail.com)](mailto:saljesh2020@gmail.com)
+- 👯 I’m looking to collaborate on **Data Analytics Projects**
 
-<br />
+- 💬 Ask me about **react, database, dbt, python**
 
-### Languages and tools that I used:
+- 📫 How to reach me **saljesh2020@gmail.com**
 
-<img align="left" alt="IBM Data Analysis" width="26px" src="https://images.credly.com/images/2e9770bd-020f-4435-99c2-89b2403467a4/Professional_Certificate_-_Data_Analyst.png" />
-<img align="left" alt="html5" width="26px" src="https://raw.githubusercontent.com/Rohan-Shakya/Rohan-Shakya/master/images/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/Rohan-Shakya/Rohan-Shakya/master/images/css.png" />
-<img align="left" alt="sass" width="26px" src="https://raw.githubusercontent.com/Rohan-Shakya/Rohan-Shakya/master/images/sass.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/Rohan-Shakya/Rohan-Shakya/master/images/javascript.png" />
-<img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/Rohan-Shakya/Rohan-Shakya/master/images/ts.png" />
-<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/Rohan-Shakya/Rohan-Shakya/master/images/python.png" />
-<img align="left" alt="React.js" width="26px" src="https://raw.githubusercontent.com/Rohan-Shakya/Rohan-Shakya/master/images/react.png" />
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/Rohan-Shakya/Rohan-Shakya/master/images/nodejs.png" />
-<img align="left" alt="FastAPI" width="26px" src="https://miro.medium.com/v2/resize:fit:1200/1*L6Eaowb7nHrLSiH41Tp4sA.png" />
-<img align="left" alt="SQL Server" width="26px" src="https://www.sqlservertutorial.net/wp-content/uploads/sql-server-tutorial.svg" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/Rohan-Shakya/Rohan-Shakya/master/images/git.png" />
+- 📄 Know about my experiences [https://drive.google.com/file/d/1wTBib2GL8P0XjZkhBHR8AEsjPZPqc06C/view?usp=drive_link](https://drive.google.com/file/d/1wTBib2GL8P0XjZkhBHR8AEsjPZPqc06C/view?usp=drive_link)
 
-## <br />
+- ⚡ Fun fact **Once im hungry dont talk with me , bring me food.**
 
-<a href="https://www.saljeshmaharjan.com.np/" target="_blank">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=saljeshh&show_icons=true&theme=tokyonight"/>
-</a>
-<a href="[https://shakyarohan.com.np](https://www.saljeshmaharjan.com.np/)" target="_blank">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saljeshh&layout=compact&theme=tokyonight"/>
-</a>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/saljesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saljesh" height="30" width="40" /></a>
+<a href="https://fb.com/saljesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="saljesh" height="30" width="40" /></a>
+<a href="https://instagram.com/__saljesh__22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__saljesh__22" height="30" width="40" /></a>
+</p>
 
-<br />
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> </p>
 
-<img src='https://github-profile-trophy.vercel.app/?username=saljeshh&theme=dracula&column=7&margin-w=15&margin-h=15%20(https://github.com/ryo-ma/github-profile-trophy)' />
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saljeshh&show_icons=true&locale=en&layout=compact" alt="saljeshh" /></p>
 
-<img src='https://raw.githubusercontent.com/AkashSingh3031/AkashSingh3031/49be5f876cb7b7649b517bff7e79990ddf033141/marquee.svg' />
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saljeshh&show_icons=true&locale=en" alt="saljeshh" /></p>
 
-
-
-[website]: https://www.saljeshmaharjan.com.np/
-[twitter]: https://twitter.com/m_saljesh
-[facebook]: https://www.facebook.com/saljesh.maharjan/
-[instagram]: https://www.instagram.com/_salj.esh_/
-[linkedin]: https://www.linkedin.com/in/saljesh/
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saljeshh&" alt="saljeshh" /></p>
