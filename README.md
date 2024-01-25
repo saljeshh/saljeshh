@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Saljesh Maharjan</h1>
 <h3 align="center">Dedicated and Disciplied Individual Heading for Data Analytics</h3>
+<h3 align="center">
+  <a href="https://www.saljeshmaharjan.com.np/" target="blank">**Portfolio Website**</a>
+</h3>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
@@ -32,3 +35,8 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saljeshh&theme=tokyonight" alt="saljeshh" /></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saljeshh&label=Profile%20views&color=0e75b6&style=flat" alt="saljeshh" /> </p>
+
+<img
+src='https://raw.githubusercontent.com/AkashSingh3031/AkashSingh3031/49be5f876cb7b7649b517bff
+7e79990ddf033141/marquee.svg' />
+
