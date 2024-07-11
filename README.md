@@ -1,16 +1,16 @@
 <h1 align="center">Hi 👋, I'm Saljesh Maharjan</h1>
-<h3 align="center">Dedicated and Disciplied Individual Heading for Data Analytics</h3>
+<h3 align="center">Dedicated and Disciplied Individual Heading for Data Engineering and Analytics</h3>
 <h3 align="center">
   <a href="https://www.saljeshmaharjan.com.np/" target="blank">**Portfolio Website**</a>
 </h3>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **PowerBI, DBT and Snowflake**
+- 🔭 I’m currently working on **PowerBI, Tableau, DBT and Snowflake**
 
-- 👯 I’m looking to collaborate on **Data Analytics Projects**
+- 👯 I’m looking to collaborate on **Data Engineering Projects**
 
-- 💬 Ask me about **react, database, dbt, python**
+- 💬 Ask me about **SQL, Python, Tableau/PowerBI, Data Engineering**
 
 - 📫 How to reach me **saljesh2020@gmail.com**
 
